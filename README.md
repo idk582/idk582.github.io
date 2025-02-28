@@ -1,83 +1,46 @@
-<p align="center">
-  <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
-  </a>
+# Surge
+## Eine einfache Webanwendung
 
-  <h3 align="center">Logo</h3>
+### Funktionen
+* **Einfache Oberfläche**: Eine intuitive Benutzeroberfläche, die es einfach macht, loszulegen.
+* **Interaktive Elemente**: Interaktive Elemente wie Buttons, Links und Formulare.
+* **Responsives Design**: Ein responsives Design, das auf verschiedenen Geräten und Bildschirmen gut aussieht.
 
-  <p align="center">
-    Short description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
-  </p>
-</p>
+### Screenshots
+![Screenshot 1](screenshot1.jpg)
+![Screenshot 2](screenshot2.jpg)
 
+### Technologien
+* **HTML**: Hypertext Markup Language
+* **CSS**: Cascading Style Sheets
+* **JavaScript**: Eine Skriptsprache für interaktive Webseiten
 
-## Table of contents
+### Links
+* [GitHub](https://github.com)
+* [Netlify](https://www.netlify.com)
 
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+### Tabelle
+| Funktion | Beschreibung |
+|----------|--------------|
+| Oberfläche | Eine intuitive Benutzeroberfläche |
+| Interaktive Elemente | Interaktive Elemente wie Buttons, Links und Formulare |
+| Responsives Design | Ein responsives Design, das auf verschiedenen Geräten und Bildschirmen gut aussieht |
 
-
-## Quick start
-
-Some text
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
-
-## Status
-
-Here goes all the budgets
-
-## What's included
-
-Some text
-
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
-```
-
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
-
-## Contributing
-
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
-## Creators
-
-**Creator 1**
-
-- <https://github.com/usernamecreator1>
-
-## Thanks
-
-Some Text
-
-## Copyright and license
-
-Code and documentation copyright 2023-2024 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
-
-Enjoy :metal:
+### Code
+```html
+<!-- Beispiel-HTML-Code -->
+<div class="container">
+  <h1>Surge</h1>
+  <p>Une einfache Webanwendung</p>
+</div>
+/* Beispiel-CSS-Code */
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+# Beispiel-Python-Code
+print("Hallo Welt!")
